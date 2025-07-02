@@ -1,0 +1,22 @@
+grilles:
+- size: 3
+  lines:
+  - Sti
+  - iSt
+  - tiS
+- size: 3
+  lines:
+  - $St
+  - St$
+  - t$S
+- size: 3
+  lines:
+  - SDm
+  - DmS
+  - mSD
+- size: 4
+  lines:
+  - $@tS
+  - S$@t
+  - tS$@
+  - '@tS$'

@@ -23,3 +23,11 @@
   - tS$@
   - '@tS$'
   but: $
+- size: 5
+  lines:
+  - rxi€$
+  - xi€$r
+  - i€$rx
+  - €$rxi
+  - $rxi€
+  but: $

@@ -1,15 +1,15 @@
 - size: 3
   lines:
-  - Sti
-  - iSt
-  - tiS
-  but: S
-- size: 3
-  lines:
   - $St
   - St$
   - t$S
   but: $
+- size: 3
+  lines:
+  - Sti
+  - iSt
+  - tiS
+  but: S
 - size: 3
   lines:
   - SDm

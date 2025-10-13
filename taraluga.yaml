@@ -1,33 +1,153 @@
 - size: 3
   lines:
-  - $St
-  - St$
-  - t$S
-  but: $
-- size: 3
-  lines:
   - Sti
   - iSt
   - tiS
   but: S
-- size: 3
-  lines:
-  - SDm
-  - DmS
-  - mSD
-  but: m
 - size: 4
   lines:
-  - $@tS
-  - S$@t
-  - tS$@
-  - '@tS$'
-  but: $
+  - iqtS
+  - Stiq
+  - qiSt
+  - tSqi
+  but: S
 - size: 5
   lines:
-  - rxi€$
-  - xi€$r
-  - i€$rx
-  - €$rxi
-  - $rxi€
-  but: $
+  - StiqD
+  - tDSiq
+  - iSqDt
+  - DqtSi
+  - qiDtS
+  but: S
+- size: 5
+  lines:
+  - Sdixt
+  - itxdS
+  - tSdix
+  - xitSd
+  - dxSti
+  but: S
+- size: 5
+  lines:
+  - dqitx
+  - tdqxi
+  - xitdq
+  - ixdqt
+  - qtxid
+  but: d
+- size: 5
+  lines:
+  - mdtiq
+  - dtiqm
+  - tqdmi
+  - qimdt
+  - imqtd
+  but: m
+- size: 5
+  lines:
+  - dtx@i
+  - t@ixd
+  - '@dtix'
+  - xi@dt
+  - ixdt@
+  but: d
+- size: 5
+  lines:
+  - Stiqd
+  - tdSiq
+  - iSqdt
+  - dqtSi
+  - qidtS
+  but: S
+- size: 5
+  lines:
+  - dibtx
+  - bxtdi
+  - xtdib
+  - idxbt
+  - tbixd
+  but: d
+- size: 5
+  lines:
+  - mqSit
+  - qtimS
+  - timSq
+  - Smqti
+  - iStqm
+  but: S
+- size: 5
+  lines:
+  - Si€qd
+  - qSd€i
+  - i€Sdq
+  - dqiS€
+  - €dqiS
+  but: S
+- size: 5
+  lines:
+  - dirbt
+  - irbtd
+  - rbtdi
+  - tdirb
+  - btdir
+  but: d
+- size: 5
+  lines:
+  - xqdiS
+  - qixSd
+  - ixSdq
+  - Sdiqx
+  - dSqxi
+  but: d
+- size: 5
+  lines:
+  - i@tqS
+  - qiS@t
+  - '@tqSi'
+  - tS@iq
+  - Sqit@
+  but: S
+- size: 5
+  lines:
+  - bixtq
+  - qxibt
+  - tqbxi
+  - ibtqx
+  - xtqib
+  but: t
+- size: 6
+  lines:
+  - td€biq
+  - b€qdti
+  - dbtiq€
+  - €tiqdb
+  - iqd€bt
+  - qibt€d
+  but: d
+- size: 6
+  lines:
+  - mdStix
+  - Stdxmi
+  - dStixm
+  - tixmSd
+  - ixmdtS
+  - xmiSdt
+  but: S
+- size: 6
+  lines:
+  - ixtqdS
+  - xdSitq
+  - tiqSxd
+  - qSdxit
+  - dqitSx
+  - Stxdqi
+  but: i
+- size: 6
+  lines:
+  - '@rSq€i'
+  - €qiSr@
+  - Si€@qr
+  - rSqi@€
+  - i€@rSq
+  - q@r€iS
+  but: S

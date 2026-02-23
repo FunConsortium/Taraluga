@@ -1,23 +1,28 @@
 - size: 3
   lines:
+  - tiS
+  - iSt
+  - Sti
+  but: S
+- size: 3
+  lines:
   - Sti
   - iSt
   - tiS
   but: S
 - size: 4
   lines:
-  - iqtS
-  - Stiq
-  - qiSt
-  - tSqi
+  - ixtS
+  - Stix
+  - xiSt
+  - tSxi
   but: S
-- size: 5
+- size: 4
   lines:
-  - StiqD
-  - tDSiq
-  - iSqDt
-  - DqtSi
-  - qiDtS
+  - tSxi
+  - xiSt
+  - Stix
+  - ixtS
   but: S
 - size: 5
   lines:
@@ -29,11 +34,43 @@
   but: S
 - size: 5
   lines:
+  - dxtiS
+  - xiStd
+  - Stdxi
+  - tSidx
+  - idxSt
+  but: S
+- size: 5
+  lines:
+  - qidtS
+  - dqtSi
+  - iSqdt
+  - tdSiq
+  - Stiqd
+  but: S
+- size: 5
+  lines:
+  - Stiqd
+  - tdSiq
+  - iSqdt
+  - dqtSi
+  - qidtS
+  but: S
+- size: 5
+  lines:
   - dqitx
   - tdqxi
   - xitdq
   - ixdqt
   - qtxid
+  but: d
+- size: 5
+  lines:
+  - dtqix
+  - iqdxt
+  - xdtqi
+  - txidq
+  - qixtd
   but: d
 - size: 5
   lines:
@@ -45,11 +82,27 @@
   but: m
 - size: 5
   lines:
+  - dtimq
+  - tdmqi
+  - qmdit
+  - miqtd
+  - iqtdm
+  but: m
+- size: 5
+  lines:
   - dtx@i
   - t@ixd
   - '@dtix'
   - xi@dt
   - ixdt@
+  but: d
+- size: 5
+  lines:
+  - '@txdi'
+  - tdix@
+  - d@tix
+  - xid@t
+  - ix@td
   but: d
 - size: 5
   lines:
@@ -61,11 +114,27 @@
   but: S
 - size: 5
   lines:
+  - Sitqd
+  - tSdiq
+  - dtqSi
+  - iqSdt
+  - qditS
+  but: S
+- size: 5
+  lines:
   - dibtx
   - bxtdi
   - xtdib
   - idxbt
   - tbixd
+  but: d
+- size: 5
+  lines:
+  - xibtd
+  - tdibx
+  - btdxi
+  - ixtdb
+  - dbxit
   but: d
 - size: 5
   lines:
@@ -77,11 +146,27 @@
   but: S
 - size: 5
   lines:
+  - mqtSi
+  - qtimS
+  - Simqt
+  - imStq
+  - tSqim
+  but: S
+- size: 5
+  lines:
   - Si€qd
   - qSd€i
   - i€Sdq
   - dqiS€
   - €dqiS
+  but: S
+- size: 5
+  lines:
+  - €diqS
+  - dq€Si
+  - qiSd€
+  - iSd€q
+  - S€qid
   but: S
 - size: 5
   lines:
@@ -93,11 +178,27 @@
   but: d
 - size: 5
   lines:
+  - btdir
+  - tdirb
+  - rbtdi
+  - irbtd
+  - dirbt
+  but: d
+- size: 5
+  lines:
   - xqdiS
   - qixSd
   - ixSdq
   - Sdiqx
   - dSqxi
+  but: d
+- size: 5
+  lines:
+  - xqiSd
+  - qixdS
+  - dxSiq
+  - iSdqx
+  - Sdqxi
   but: d
 - size: 5
   lines:
@@ -109,11 +210,27 @@
   but: S
 - size: 5
   lines:
+  - Stiq@
+  - q@Sit
+  - tSq@i
+  - '@itSq'
+  - iq@tS
+  but: S
+- size: 5
+  lines:
   - bixtq
   - qxibt
   - tqbxi
   - ibtqx
   - xtqib
+  but: t
+- size: 5
+  lines:
+  - qtixb
+  - tbxqi
+  - xibtq
+  - ixqbt
+  - bqtix
   but: t
 - size: 6
   lines:
@@ -126,12 +243,30 @@
   but: d
 - size: 6
   lines:
+  - dtb€iq
+  - €bdqti
+  - t€qidb
+  - bditq€
+  - iqtb€d
+  - qi€dbt
+  but: d
+- size: 6
+  lines:
   - mdStix
   - Stdxmi
   - dStixm
   - tixmSd
   - ixmdtS
   - xmiSdt
+  but: S
+- size: 6
+  lines:
+  - xmiSdt
+  - ixmdtS
+  - tixmSd
+  - dStixm
+  - Stdxmi
+  - mdStix
   but: S
 - size: 6
   lines:
@@ -144,10 +279,28 @@
   but: i
 - size: 6
   lines:
+  - Sdqtxi
+  - tqSidx
+  - xidqSt
+  - dtxSiq
+  - qSixtd
+  - ixtdqS
+  but: i
+- size: 6
+  lines:
   - '@rSq€i'
   - €qiSr@
   - Si€@qr
   - rSqi@€
   - i€@rSq
   - q@r€iS
+  but: S
+- size: 6
+  lines:
+  - Sq€r@i
+  - iS@qr€
+  - €ri@Sq
+  - r@q€iS
+  - '@€Siqr'
+  - qirS€@
   but: S
